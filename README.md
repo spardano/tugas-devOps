@@ -7,9 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## laravel CI/CD DevOps
+## laravel CI/CD DevOps by Sakti Pardano
 
 [![Build Status](https://travis-ci.org/spardano/tugas-devOps.svg?branch=master)](https://travis-ci.org/spardano/tugas-devOps)
+
 
 ## About Laravel
 
